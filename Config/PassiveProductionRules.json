@@ -128,7 +128,7 @@
                             "bpPath": "/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 0,
-                            "quantityPerDino": 1,
+                            "quantityPerDino": 10,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
                             "alternateItems": [],
