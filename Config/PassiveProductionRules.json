@@ -496,7 +496,13 @@
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
-                        },
+                        }
+                    ]
+                },
+                {
+                    "intervalSeconds": 7200,
+                    "itemSelectMode": 0,
+                    "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap",
                             "maxQuantityPerCycle": 0,
